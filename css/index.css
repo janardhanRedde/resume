@@ -1,0 +1,65 @@
+.curriculumvitae{
+    text-align: center;
+    
+}
+
+.UserData {
+   
+    /* border: 2px solid yellow; */
+    padding-left: 150px;
+    padding-right: 150px;
+   
+    display: flex;
+}
+
+.PersonalData {
+    
+    flex: 1;
+   
+}
+
+
+
+
+/*    images*/
+  .image-wrapper{
+
+ width: 100px;
+ height: 100px;
+  }
+  .image-wrapper img{
+    width: 100%;
+    height: 100%;
+  }
+  
+
+  .carrerObjective{
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+
+  .EducationalCredentials{
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+
+  .Workexperience{
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+
+
+  .table table{
+    width: 100%;
+    
+
+  }
+
+  .table table th td {
+text-align: center;
+  }
+
+.skills{
+    padding-left: 150px;
+    padding-right: 150px;
+}
